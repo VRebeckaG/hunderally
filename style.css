@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(227, 212, 191);
+}
+
+nav {
+    display: flex;
+    justify-content: baseline;
+    justify-content: space-between;
+    background-color: rgb(210, 197, 179);
+    color: black;
+    font-size: large;
+}
+
+div {
+    
+}
+
