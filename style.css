@@ -5,13 +5,13 @@ body {
 nav {
     display: flex;
     justify-content: baseline;
-    justify-content: space-between;
+    justify-content: space-evenly;
     background-color: rgb(210, 197, 179);
     color: black;
     font-size: large;
 }
 
 div {
-    
+    display: flex;
+    justify-content: center;    
 }
-
